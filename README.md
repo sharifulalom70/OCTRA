@@ -7,7 +7,8 @@
 pip install -r requirements.txt
 ```
 **2.Create and edit wallet.json**
-```cp wallet.json.example wallet.json
+```
+cp wallet.json.example wallet.json
 ```
 Then open the file: wallet.json
 
